@@ -1,45 +1,55 @@
 {
-  "updated_at": "2026-11-18T12:27:37Z",
+  "updated_at": "2026-11-18T20:58:36Z",
   "articles": [
+    {
+      "title": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
+      "summary": "Le leader de La France insoumise a débattu deux heures durant, mardi 17 novembre, avec une douzaine de ténors du CAC 40. L’occasion de mettre en avant son projet d’économie collectiviste et son patriotisme."
+    },
+    {
+      "title": "Impôts : la déclaration papier, un marqueur social pour les ménages pauvres et les personnes âgées",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/18/impots-la-declaration-papier-un-marqueur-social-pour-les-menages-pauvres-et-les-personnes-agees_6813176_823448.html",
+      "summary": "En quinze ans, la France s’est convertie à la déclaration en ligne, tandis que 300 centres des impôts fermaient, souligne l’Insee. Mais les ménages à faibles ressources et les personnes âgées restent nombreux à utiliser le papier."
+    },
     {
       "title": "A Paris, la fin des livraisons de Franprix par bateau met à l’arrêt le port de la Bourdonnais",
       "url": "https://www.lemonde.fr/economie/article/2026/11/18/a-paris-la-fin-des-livraisons-de-franprix-par-bateau-met-a-l-arret-le-port-de-la-bourdonnais_6813108_3234.html",
       "summary": "Touché par l’inflation et la réduction des aides de l’Etat, Franprix met un terme à ses livraisons de marchandises par la Seine. Une décision qui provoque l’arrêt des activités du port situé près de la tour Eiffel."
     },
     {
-      "title": "\"Cela nous coûte 130 euros par minute de retard\": les compagnies sont toujours remontées contre le contrôle aérien français qui est \"très loin des standards\"",
-      "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/cela-nous-coute-130-euros-par-minute-de-retard-les-compagnies-sont-toujours-remontees-contre-le-controle-aerien-francais-qui-est-tres-loin-des-standards_AV-202611180584.html",
-      "summary": "Malgré des investissements pour sa modernisation, sa performance reste insuffisante jugent les opérateurs qui pointent surtout des problèmes de productivité des agents. De son côté, l'État promet des recrutements dans le budget 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/w0UikLCZA0hJMo55Q1zm2Is_Lrg=/0x40:800x490/800x0/images/-49899.jpg\" />"
+      "title": "Pour lutter contre l'inflation, \"presque tous\" les banquiers centraux américains estiment qu'un relèvement des taux directeurs est inéluctable",
+      "url": "https://www.bfmtv.com/economie/economie-social/monde/pour-lutter-contre-l-inflation-presque-tous-les-banquiers-centraux-americains-estiment-qu-un-relevement-des-taux-directeurs-est-ineluctable_AD-202611180942.html",
+      "summary": "Dans un document retraçant les débats du comité de politique monétaire de la Réserve fédérale américaine, \"presque tous\" les banquiers centraux américains estiment inévitable le relèvement des taux directeurs à l'avenir pour calmer l'inflation. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/CFo70vYoNVHsRGx5Fp5bg74CX28=/0x50:2048x1202/800x0/images/Fed-Washington-1828941.jpg\" />"
     },
     {
-      "title": "Priorité aux domaines régaliens et aux enseignants et statut de droit privé pour les autres: Édouard Philippe veut limiter le statut de fonctionnaire aux \"fonctions essentielles\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/priorite-aux-domaines-regaliens-et-aux-enseignants-et-statut-de-droit-prive-pour-les-autres-edouard-philippe-veut-limiter-le-statut-de-fonctionnaire-aux-fonctions-essentielles_AD-202611180553.html",
-      "summary": "L'ancien Premier ministre a dévoilé une partie de son programme présidentiel, visant notamment à réduire fortement les dépenses publiques. Il projette pour cela de restreindre le statut de fonctionnaire aux activités régaliennes comme la police et aux enseignants.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/W67l6-xt1XUgOHyW2V38OSg0Kj8=/0x0:2048x1152/800x0/images/Edouard-Philippe-2386161.jpg\" />"
+      "title": "Services publics : 750 milliards d’euros de dépenses, mais de plus en plus de Français en difficulté dans leurs démarches administratives selon une vaste étude de l'Insee",
+      "url": "https://www.bfmtv.com/economie/economie-social/services-publics-750-milliards-d-euros-de-depenses-mais-de-plus-en-plus-de-francais-en-difficulte-dans-leurs-demarches-administratives-selon-une-vaste-etude-de-l-insee_AD-202611180940.html",
+      "summary": "Les dépenses consacrées aux services publics représentent 25 points de PIB en 2024, soit deux points de plus qu’en 2005, selon l’Insee. Mais de plus en plus de Français déclarent des difficultés dans leurs démarches administratives et les inégalités d'accès aux services persistent.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Ig97PGZfn6whsREuS4HnNn9z5dc=/23x91:775x514/800x0/images/-149641.jpg\" />"
     },
     {
-      "title": "BFM Entreprise - Croissance - Croissance en restauration, la stratégie - Mercredi 18 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/bfm-entreprise-croissance-croissance-en-restauration-la-strategie-mercredi-18-novembre_EN-202611180523.html",
-      "summary": "Ce mercredi 18 novembre, Sandra Gandoin a reçu Salomé Cousin, cofondatrice de Gaston à la campagne, Thomas Barenfeld, cofondateur de Gaston à la campagne, et Juliette Mandrin-Jaboulay, consultante en entrepreneuriat et membre du Réseau Entreprendre 78, dans l'émission BFM Entreprise, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WmimYA9ZvFJH9EEWUH7J6Nv2WTk=/0x0:14000x14000/800x0/podcast/podcasts/principale-650_2.jpg\" />"
+      "title": "Alexandre Malafaye (Synopia), Simon-Pierre Sengayrac (Observatoire de l'économie de la Fondation Jean-Jaurès), John Plassard (Cité Gestion), et Ulysse Gosset (BFMTV) – 18/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/alexandre-malafaye-synopia-simon-pierre-sengayrac-observatoire-de-l-economie-de-la-fondation-jean-jaures-john-plassard-cite-gestion-et-ulysse-gosset-bfmtv-18-11_EN-202611180876.html",
+      "summary": "Ce mercredi 18 novembre, retrouvez l'émission le 18h Eco présentée par Stéphanie Coleau sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mlALJqkz7ocPRjbb9KUQCZU1P28=/0x0:14000x14000/800x0/podcast/podcasts/principale-469_4.jpg\" />"
     },
     {
-      "title": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/pour-aider-l-ukraine-a-combler-son-deficit-budgetaire-de-70-milliards-d-euros-en-2027-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros_AD-202611180511.html",
-      "summary": "Ce nouveau prêt de l'Union européenne doit aider l'Ukraine à combler son déficit évalué à 70 milliards d'euros et permettra de soutenir l'effort de guerre du pays.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mhVBcZlFwpRxc_CRPkyVqQuW40Q=/0x40:768x472/800x0/images/La-presidente-de-la-Commission-europeenne-Ursula-Von-der-Leyen-acueille-le-president-ukrainien-Volodymyr-Zelensky-a-Bruxelles-le-17-aout-2025-2123889.jpg\" />"
+      "title": "Le Sénat adopte en première lecture le projet de budget de la Sécurité sociale pour 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Les députés et les sénateurs vont désormais tenter de s'accorder sur un texte commun en commission mixte paritaire."
     },
     {
-      "title": "L'intégrale des Experts du mercredi 18 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-mercredi-18-novembre_EN-202611180461.html",
-      "summary": "Ce mercredi 18 novembre, Ludovic Desautez a reçu Gilbert Cette, professeur d'économie à Neoma Business School et auteur de \"Sauver la démocratie sociale : Du conflit au contrat\", Stéphane Van Huffel, président de SVH Conseil et animateur du blog jesuisliberal.fr, et Raphaël Gallardo, chef économiste chez Carmignac, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Croissance, la France, mauvaise élève de la zone euro - 18/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-croissance-la-france-mauvaise-eleve-de-la-zone-euro-18-11_EN-202611180460.html",
-      "summary": "Ce mercredi 18 novembre, les projections de la Commission européenne sur le décrochage de la croissance française en 2027 par rapport au reste de la zone euro, le manque de prise en compte des entreprises dans les débats présidentiels ainsi que la rémunération record des patrons du CAC 40 ont été abordés par Gilbert Cette, professeur d'économie à Neoma Business School et auteur de \"Sauver la démocratie sociale : Du conflit au contrat\", Stéphane Van Huffel, président de SVH Conseil et animateur du blog jesuisliberal.fr, et Raphaël Gallardo, chef économiste chez Carmignac, dans l'émission Les Experts, présentée par Ludovic Desautez sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
+      "title": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
+      "url": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Combien coûte votre baguette de pain ? La moyenne en France se situe aux alentours de 1,10 euro. La baguette est devenue en quelque sorte un baromètre de l'inflation. On l'achète tous les jours, et on en connaît donc parfaitement le prix. Afin d'éviter de perdre des clients, de nombreux boulangers rognent sur leurs marges pour maintenir un prix bas sur ce produit incontournable, comme à Pérols, dans l'Hérault."
     },
     {
       "title": "La prévision de croissance de 1% en France pour 2027 \"est à risque\", reconnaît le ministre de l'Economie",
       "url": "https://www.franceinfo.fr/economie/budget/la-prevision-de-croissance-de-1-en-france-pour-2027-est-a-risque-reconnait-le-ministre-de-l-economie-roland-lescure_8288000.html#xtor=RSS-3-%5Beconomie%5D",
       "summary": "Le gouvernement risque d'être contraint d'envisager de nouvelles mesures d'économies pour boucler le budget pour l'année 2027."
+    },
+    {
+      "title": "L’info du jour | 18 novembre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/11/18/linfo-du-jour-18-novembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 18 novembre 2026 - Mi-journée",
@@ -75,16 +85,6 @@
       "title": "L’info du jour | 16 novembre 2026 - Mi-journée",
       "url": "https://fr.euronews.com/video/2026/11/16/linfo-du-jour-16-novembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 novembre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/11/16/linfo-du-jour-16-novembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 novembre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/11/15/linfo-du-jour-15-novembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Pourquoi le coup de pouce au Smic risque de disparaître avant même d&#039;entrer en vigueur",
