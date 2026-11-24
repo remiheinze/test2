@@ -1,75 +1,70 @@
 {
-  "updated_at": "2026-11-24T11:47:15Z",
+  "updated_at": "2026-11-24T21:42:08Z",
   "articles": [
+    {
+      "title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html",
+      "summary": "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français. Avant les élections, la Commission marche sur des œufs et retient ses critiques."
+    },
+    {
+      "title": "Budget 2027 : le Sénat abaisse le plafond de l’abattement fiscal de 10 % des retraités, refusant sa suppression totale",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-le-senat-abaisse-le-plafond-de-l-abattement-fiscal-de-10-des-retraites-refusant-sa-suppression-totale_6814837_823448.html",
+      "summary": "Actuellement, l’abattement dont bénéficient les retraités est plafonné à 4 439 euros. Dans son projet de loi de finances, le gouvernement proposait de réduire ce plafond à 3 000 euros. Les sénateurs ont voté son abaissement à 1 000 euros."
+    },
     {
       "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
       "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
       "summary": "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles. Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
     },
     {
-      "title": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
-      "summary": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer."
+      "title": "Les startups au service du bien vieillir – 24/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/les-startups-au-service-du-bien-vieillir-24-11_EN-202611240981.html",
+      "summary": "Patrice Lassalle-Bareilles, directeur du salon Silver Économie Expo, Ruben Weinstein, directeur général et cofondateur de Speakli, Hugo Peeters, fondateur de DomiCare, et Philippe Dedrie, fondateur et CEO de SunWaves MedTech, étaient les invités de François Sorel dans Tech & Co, la quotidienne, ce mardi 24 novembre. Ils se sont penchés sur la définition de la silver économie, l'impact de l'IA dans la silver économie, et les solutions apportées par les startups pour le bien vieillir, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RVBw68nc_tWvGusrZRhVwBGk4Ys=/0x0:14000x14000/800x0/podcast/podcasts/principale-77_2.jpg\" />"
     },
     {
-      "title": "Travail : les NAO pour contrer les inégalités de sexe ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/video-travail-les-nao-pour-contrer-les-inegalites-de-sexe_VN-202611240520.html",
-      "summary": "La question se pose et elle est légitime. En 2026, 55 % des entreprises disposaient d’un budget spécifique pour rattraper les écarts de rémunération entre les femmes et les hommes. Un sujet plus qu'actuel dans les faits<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-K12pHrUlm6yS1N6imeIHDnvLZk=/0x0:1280x720/800x0/images/Travail-les-NAO-pour-contrer-les-inegalites-de-sexe-2389619.jpg\" />"
+      "title": "Les startups au service du bien vieillir - 24/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-les-startups-au-service-du-bien-vieillir-24-11_VN-202611240991.html",
+      "summary": "Patrice Lassalle-Bareilles, directeur du salon Silver Économie Expo, Ruben Weinstein, directeur général et cofondateur de Speakli, Hugo Peeters, fondateur de DomiCare, et Philippe Dedrie, fondateur et CEO de SunWaves MedTech, étaient les invités de François Sorel dans Tech & Co, la quotidienne, ce mardi 24 novembre. Ils se sont penchés sur la définition de la silver économie, l'impact de l'IA dans la silver économie, et les solutions apportées par les startups pour le bien vieillir, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_IF8evZCuCpOTD41EWAVg5ldgIk=/0x0:1280x720/800x0/images/Les-startups-au-service-du-bien-vieillir-24-11-2389987.jpg\" />"
     },
     {
-      "title": "L'Allemagne a une règle d'or budgétaire très stricte depuis 2009 mais elle a fini par l'assouplir: la France doit-elle s'en inspirer pour rétablir ses comptes publics?",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-allemagne-a-une-regle-d-or-budgetaire-tres-stricte-depuis-2009-mais-elle-a-fini-par-l-assouplir-la-france-doit-elle-s-en-inspirer-pour-retablir-ses-comptes-publics_AV-202611240476.html",
-      "summary": "Depuis 2009, l'Allemagne dispose d'un frein à l'endettement qui lui impose de ne pas dépasser un déficit structurel annuel à 0,35% du PIB. Mais le dispositif a récemment été assoupli pour faire face aux montagnes d'investissements nécessaires à la modernisation et au réarmement du pays.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZKDTXml_b_jvEulu_eKqE90-Ugk=/7x211:2023x1345/800x0/images/Le-chancelier-allemand-Friedrich-Merz-et-le-president-francais-Emmanuel-Macron-a-la-Chancellerie-de-Berlin-en-Allemagne-2321170.jpg\" />"
+      "title": "Le Parlement adopte définitivement le projet de loi de fin de gestion 2026, avec un déficit public maintenu à 5,4 % du PIB",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-parlement-adopte-definitivement-le-projet-de-loi-de-fin-de-gestion-2026-avec-un-deficit-public-maintenu-a-5-4-du-pib_AD-202611240919.html",
+      "summary": "Adopté sans recours au 49.3, le projet de loi de fin de gestion 2026 a obtenu le soutien du Sénat et de l'Assemblée nationale, grâce notamment à l'abstention des socialistes et du RN. Il prévoit plusieurs ajustements budgétaires pour faire face aux crises de l'année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hFrJcKNrom8OMVf5SSrWyD2kt4E=/0x40:768x472/800x0/images/Balayes-par-l-Assemblee-nationale-les-textes-budgetaires-sont-examines-a-partir-de-lundi-au-Senat-hemicycle-domine-par-la-droite-qui-entend-faire-preuve-de-responsabilite-face-aux-finances-en-berne-2380458.jpg\" />"
     },
     {
-      "title": "Les Experts : Zone euro, la croissance se maintient en novembre - 24/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-zone-euro-la-croissance-se-maintient-en-novembre-24-11_VN-202611240468.html",
-      "summary": "Ce mardi 24 novembre, la croissance économique française à la traîne par rapport au reste de la zone euro, qui se stabilise ce mois-ci, l'adoption d'une \"règle d'or\" budgétaire souhaitée par Emmanuel Macron, et la crainte d'une surabondance du pétrole, ont été abordées par Frédéric Farah, économiste et professeur à l'Université Paris 1, Hervé Novelli, initiateur du Cercle des Entrepreneurs Engagés et ancien ministre, et Jean-François Robin, directeur de la recherche de Natixis CIB, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez-la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sdor5VoUMqocS6x8wKoyR2r0QrI=/0x0:1280x720/800x0/images/Les-Experts-Zone-euro-la-croissance-se-maintient-en-novembre-24-11-2389578.jpg\" />"
+      "title": "Portugal: le budget 2027 pourrait faire basculer le pays dans le déficit public après quatre années consécutives d'excédents",
+      "url": "https://www.bfmtv.com/economie/international/portugal-le-budget-2027-pourrait-faire-basculer-le-pays-dans-le-deficit-public-apres-quatre-annees-consecutives-d-excedents_AD-202611240894.html",
+      "summary": "Le Parlement portugais a adopté le budget 2027, qui prévoit désormais un déficit public de 0,2% du PIB, contre un excédent initialement attendu de 0,1%. Une première depuis quatre ans, malgré les excédents enregistrés ces dernières années. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gAXrXgRq-16WzKzSeys16cvVbwU=/0x107:2048x1259/800x0/images/Le-Premier-ministre-portugais-Luis-Montenegro-2389896.jpg\" />"
     },
     {
-      "title": "Les Experts : Zone euro, la croissance se maintient en novembre - 24/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-zone-euro-la-croissance-se-maintient-en-novembre-24-11_EN-202611240454.html",
-      "summary": "Ce mardi 24 novembre, la croissance économique française à la traîne par rapport au reste de la zone euro, qui se stabilise ce mois-ci, l'adoption d'une \"règle d'or\" budgétaire souhaitée par Emmanuel Macron, et la crainte d'une surabondance du pétrole, ont été abordées par Frédéric Farah, économiste et professeur à l'Université Paris 1, Hervé Novelli, initiateur du Cercle des Entrepreneurs Engagés et ancien ministre, et Jean-François Robin, directeur de la recherche de Natixis CIB, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez-la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
+      "title": "Même avec 90 milliards d'euros promis par l'Europe, il lui manque encore 25 milliards: l'Ukraine chiffre à 115 milliards ses besoins d'aide financière pour 2027",
+      "url": "https://www.bfmtv.com/economie/international/meme-avec-90-milliards-d-euros-promis-par-l-europe-il-lui-manque-encore-25-milliards-l-ukraine-chiffre-a-115-milliards-ses-besoins-d-aide-financiere-pour-2027_AD-202611240803.html",
+      "summary": "Kiev compte sur un financement de 90 milliards d'euros de l'Union européenne l'an prochain, mais doit encore trouver 25 milliards supplémentaires pour couvrir ses besoins, alors que la guerre avec la Russie alourdit ses dépenses militaires et les dégâts causés aux infrastructures.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OpBVaPTu5PrIoNfvnonIdhPsvek=/0x0:2048x1152/800x0/images/Volodymyr-Zelensky-2348726.jpg\" />"
     },
     {
-      "title": "La maison pour lui, les pots de yaourt pour elle: après un divorce, de nombreuses femmes se retrouvent les mains vides, car elles ont payé les dépenses du quotidien et pas les biens immobiliers",
-      "url": "https://www.bfmtv.com/economie/patrimoine/la-maison-pour-lui-les-pots-de-yaourt-pour-elle-apres-un-divorce-de-nombreuses-femmes-se-retrouvent-les-mains-vides-car-elles-ont-paye-les-depenses-du-quotidien-et-pas-les-biens-immobiliers_AD-202611240442.html",
-      "summary": "La \"théorie des pots de yaourts\" se poursuit auprès de femmes qui ont fermé les yeux sur les finances du couple. De nombreuses associations dénoncent cette situation, appelant les femmes à parler d'argent au sein du couple.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ewtUPHrN0fQcnVTiOTpxNgC5C7k=/0x40:768x472/800x0/images/Apres-le-divorce-les-pots-de-yaourt-pour-madame-le-patrimoine-pour-monsieur-2389480.jpg\" />"
+      "title": "La gifle électorale ne l'a pas fait changer de cap: Trump s'apprête à (encore) relever les droits de douane contre l'Europe et la Chine",
+      "url": "https://www.bfmtv.com/economie/la-gifle-electorale-ne-l-a-pas-fait-changer-de-cap-trump-s-apprete-a-encore-relever-les-droits-de-douane-contre-l-europe-et-la-chine_AV-202611240794.html",
+      "summary": "Quatre mois après sa dernière offensive douanière d'ampleur, Donald Trump s'apprête à relever les taxes sur les importations en provenance de ses principaux partenaires commerciaux. Les produits européens pourraient de nouveau être taxés à 15%, contre 10 à 12,5% actuellement.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9cFYXGD569hcluNRzontVMYmNm8=/0x106:2048x1258/800x0/images/Donald-Trump-2366373.jpg\" />"
     },
     {
-      "title": "Un mois après sa réélection sur un programme de gauche, le président brésilien Lula lance un plan d'économies de 9 milliards d'euros et espère calmer la fièvre des marchés financiers",
-      "url": "https://www.bfmtv.com/economie/economie-social/monde/un-mois-apres-sa-reelection-sur-un-programme-de-gauche-le-president-bresilien-lula-lance-un-plan-d-economies-de-9-milliards-d-euros-et-espere-calmer-la-fievre-des-marches-financiers_AD-202611240431.html",
-      "summary": "Dans l'espoir de rassurer les marchés et de diminuer les taux d'intérêt qui freinent son économie, le Parlement brésilien a voté mardi pour un grand plan d'économies à hauteur de 9,4 milliards de dollars.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6kKGrd2YH2PdIN9TAjdBtAvUkgA=/0x106:2048x1258/800x0/images/Le-president-Luiz-Inacio-Lula-da-Silva-candidat-du-Parti-des-travailleurs-apres-avoir-remporte-le-second-tour-de-l-election-presidentielle-a-Sao-Paulo-au-Bresil-le-25-octobre-2026-2375066.jpg\" />"
+      "title": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026."
     },
     {
-      "title": "L'intégrale de Good Morning Market du mardi 24 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-integrale-de-good-morning-market-du-mardi-24-novembre_EN-202611240381.html",
-      "summary": "Ce mardi 24 novembre, Étienne Bracq a reçu Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Florian Roger, responsable de la stratégie d'investissement de BNP Paribas CIB, Arnaud Cadart, co-directeur de la gestion chez Fastea Capital, et Paul Marcel, co-fondateur de l'Atelier des Options, dans l'émission Good Morning Market, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
+      "title": "Presque toutes les régions françaises atteindront leur pic de population avant 2070, selon l'Insee",
+      "url": "https://www.franceinfo.fr/economie/croissance/presque-toutes-les-regions-francaises-atteindront-leur-pic-de-population-avant-2070-selon-l-insee_8297775.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Alors que le pic démographique a déjà été atteint dans plusieurs régions, d'autres poursuivront leur croissance après 2050, avant de voir leur population diminuer."
     },
     {
-      "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre",
-      "url": "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Cette mesure vise à \"protéger l'industrie\" européenne, alors que le déficit commercial avec la Chine atteint désormais environ un milliard d'euros par jour depuis 2025, explique la Commission européenne."
+      "title": "\"On sera des communes mortes\" : les maires affichent des rubans noirs pour manifester leur colère contre les coupes budgétaires",
+      "url": "https://www.franceinfo.fr/economie/budget/on-sera-des-communes-mortes-les-maires-affichent-des-rubans-noirs-pour-manifester-leur-colere-contre-les-coupes-budgetaires_8297790.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "La 108e édition du congrès des maires se tient ce mardi 24 novembre dans un climat tendu, en raison des coupes budgétaires auxquelles les élus vont devoir faire face. Leur colère se manifeste par des rubans noirs, disposés sur les panneaux à l'entrée des communes. Certains édiles craignent de devoir augmenter certaines taxes. Exemple en Seine-Maritime."
     },
     {
-      "title": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Interrogé sur les compromis souhaités par Sébastien Lecornu avec les parlementaires sur le budget 2027, dans lequel le Sénat souhaite supprimer l'abattement des 10% des retraités, Serge Papin souligne que le vote du budget \"joue sur le pouvoir d'achat\", et rappelle que les mesures concernant les pensions sont \"encore en discussion\"."
-    },
-    {
-      "title": "Pourquoi la France veut se doter de stocks stratégiques de terres rares ?",
-      "url": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/pourquoi-la-france-veut-se-doter-de-stocks-strategiques-de-terres-rares_8295902.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Emmanuel Macron a annoncé aux industriels la création de réserves stratégiques de ces minerais et métaux indispensables à l'économie mondiale, pour réduire notre dépendance et anticiper les crises."
-    },
-    {
-      "title": "Suppression de l'abattement fiscal de 10% appliqué aux pensions de retraites : \"Je salue le choix courageux du Sénat\", confie David Amiel, ministre des Comptes publics",
-      "url": "https://www.franceinfo.fr/politique/suppression-de-l-abattement-fiscal-de-10-applique-aux-pensions-de-retraites-je-salue-le-choix-courageux-du-senat-confie-david-amiel-ministre-des-comptes-publics_8297268.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Invité des \"4 Vérités\" ce mardi, le ministre de l'Action et des Comptes publics a emboîté le pas à son collègue Jean-Pierre Farandou, en soutenant à son tour la proposition du Sénat pour le budget 2027 de supprimer l'abattement fiscal de 10% qui permet aux retraités de réduire la part de leur pension soumise à l'impôt. C'est \"le seul choix crédible si on veut indexer 100% des retraites sur l'inflation\", estime-t-il."
-    },
-    {
-      "title": "Sébastien Lecornu tend la main aux parlementaires pour un compromis sur le budget, sans toucher au déficit",
-      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sur-le-budget-sans-toucher-au-deficit_8297160.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Faute de majorité, le Premier ministre s'est adressé aux parlementaires dans un courrier, afin de trouver \"une voie de passage\"."
+      "title": "L’info du jour | 24 novembre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/11/24/linfo-du-jour-24-novembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 24 novembre 2026 - Mi-journée",
@@ -122,11 +117,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 21 novembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/11/21/linfo-du-jour-21-novembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Comment maîtriser la dette publique ? 10 solutions au banc d&#039;essai",
       "url": "https://www.alternatives-economiques.fr/comment-maitriser-la-dette-publique-10-solutions-au-banc-d-essai_23-11-2026",
       "summary": "Pour remettre les comptes à flot, le débat public se résume trop souvent à une cure d'austérité et à des coupes dans les dépenses. Mais d'autres solutions existent, avec des conséquences bien différentes."
@@ -135,11 +125,6 @@
       "title": "Pour stabiliser la dette, faut-il vraiment passer par une cure d&#039;austérité ?",
       "url": "https://www.alternatives-economiques.fr/pour-stabiliser-la-dette-faut-il-vraiment-passer-par-une-cure-d-austerite_23-11-2026",
       "summary": "Pour réduire le déficit, le centre et la droite appellent avant tout à couper dans les dépenses. Mais cette stratégie fait peser des risques sur la croissance... et donc sur les recettes publiques."
-    },
-    {
-      "title": "Gérard Mathieu a posé définitivement son crayon",
-      "url": "https://www.alternatives-economiques.fr/gerard-mathieu-a-pose-definitivement-son-crayon_21-11-2026",
-      "summary": "Une page qui restera blanche. Le dessinateur Gérard Mathieu, qui croquait l’économie chaque mois dans notre magazine depuis plus de trente ans, est mort fin octobre. Il aura dessiné pour nous jusqu’au bout."
     }
   ]
 }
