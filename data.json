@@ -1,60 +1,100 @@
 {
-  "updated_at": "2026-11-25T04:40:57Z",
+  "updated_at": "2026-11-25T15:07:51Z",
   "articles": [
     {
-      "title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html",
-      "summary": "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français. Avant les élections, la Commission marche sur des œufs et retient ses critiques."
+      "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
+      "summary": "L’administration américaine a annoncé, mercredi 25 novembre, la mise en place de nouvelles taxes sur les importations qui affectent 14 partenaires commerciaux des Etats, dont l’Union européenne et la Chine."
     },
     {
-      "title": "Budget 2027 : le Sénat abaisse le plafond de l’abattement fiscal de 10 % des retraités, refusant sa suppression totale",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-le-senat-abaisse-le-plafond-de-l-abattement-fiscal-de-10-des-retraites-refusant-sa-suppression-totale_6814837_823448.html",
-      "summary": "Actuellement, l’abattement dont bénéficient les retraités est plafonné à 4 439 euros. Dans son projet de loi de finances, le gouvernement proposait de réduire ce plafond à 3 000 euros. Les sénateurs ont voté son abaissement à 1 000 euros."
+      "title": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/l-administration-trump-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-dont-l-ue-la-chine-et-le-mexique_6815099_3210.html",
+      "summary": "Ces nouvelles surtaxes, qui s’ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier par le représentant au commerce des Etats-Unis, Jamieson Greer."
     },
     {
-      "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
-      "summary": "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles. Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le compte n’y est pas, en particulier sur la PAC »."
+      "title": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/25/dans-la-finance-l-intelligence-artificielle-oblige-chacun-a-etre-meilleur-dans-son-c-ur-de-metier_6815096_1657007.html",
+      "summary": "La révolution de l’intelligence artificielle en cours est comparable, par son ampleur, à la révolution industrielle. Mais ses effets sur l’emploi et sur la croissance seront plus lents et moins brutaux qu’annoncé, juge, dans un entretien au « Monde », Christopher Dembik, conseiller en stratégie d’investissement."
     },
     {
-      "title": "Les startups au service du bien vieillir – 24/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/les-startups-au-service-du-bien-vieillir-24-11_EN-202611240981.html",
-      "summary": "Patrice Lassalle-Bareilles, directeur du salon Silver Économie Expo, Ruben Weinstein, directeur général et cofondateur de Speakli, Hugo Peeters, fondateur de DomiCare, et Philippe Dedrie, fondateur et CEO de SunWaves MedTech, étaient les invités de François Sorel dans Tech & Co, la quotidienne, ce mardi 24 novembre. Ils se sont penchés sur la définition de la silver économie, l'impact de l'IA dans la silver économie, et les solutions apportées par les startups pour le bien vieillir, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RVBw68nc_tWvGusrZRhVwBGk4Ys=/0x0:14000x14000/800x0/podcast/podcasts/principale-77_2.jpg\" />"
+      "title": "Les aides à l’apprentissage font l’objet de nombreux abus et fraudes, selon la Cour des comptes",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/les-aides-a-l-apprentissage-font-l-objet-de-nombreux-abus-et-fraudes-selon-la-cour-des-comptes_6815092_823448.html",
+      "summary": "Les magistrats de la rue Cambon soulignent, dans un rapport publié mercredi 25 novembre, les nombreuses défaillances autour du système, alors que le budget dévolu à l’apprentissage a bondi."
     },
     {
-      "title": "Les startups au service du bien vieillir - 24/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-les-startups-au-service-du-bien-vieillir-24-11_VN-202611240991.html",
-      "summary": "Patrice Lassalle-Bareilles, directeur du salon Silver Économie Expo, Ruben Weinstein, directeur général et cofondateur de Speakli, Hugo Peeters, fondateur de DomiCare, et Philippe Dedrie, fondateur et CEO de SunWaves MedTech, étaient les invités de François Sorel dans Tech & Co, la quotidienne, ce mardi 24 novembre. Ils se sont penchés sur la définition de la silver économie, l'impact de l'IA dans la silver économie, et les solutions apportées par les startups pour le bien vieillir, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_IF8evZCuCpOTD41EWAVg5ldgIk=/0x0:1280x720/800x0/images/Les-startups-au-service-du-bien-vieillir-24-11-2389987.jpg\" />"
+      "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
+      "summary": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement."
     },
     {
-      "title": "Le Parlement adopte définitivement le projet de loi de fin de gestion 2026, avec un déficit public maintenu à 5,4 % du PIB",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-parlement-adopte-definitivement-le-projet-de-loi-de-fin-de-gestion-2026-avec-un-deficit-public-maintenu-a-5-4-du-pib_AD-202611240919.html",
-      "summary": "Adopté sans recours au 49.3, le projet de loi de fin de gestion 2026 a obtenu le soutien du Sénat et de l'Assemblée nationale, grâce notamment à l'abstention des socialistes et du RN. Il prévoit plusieurs ajustements budgétaires pour faire face aux crises de l'année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hFrJcKNrom8OMVf5SSrWyD2kt4E=/0x40:768x472/800x0/images/Balayes-par-l-Assemblee-nationale-les-textes-budgetaires-sont-examines-a-partir-de-lundi-au-Senat-hemicycle-domine-par-la-droite-qui-entend-faire-preuve-de-responsabilite-face-aux-finances-en-berne-2380458.jpg\" />"
+      "title": "Le billet de 5 euros se fait de plus en plus rare dans les portefeuilles des Français",
+      "url": "https://www.bfmtv.com/economie/video-le-billet-de-5-euros-se-fait-de-plus-en-plus-rare-dans-les-portefeuilles-des-francais_VN-202611250687.html",
+      "summary": "Très prisé des Français, des commerçants aux consommateurs, le billet de 5 euros se fait de plus en plus rare dans l'économie française. Dans les Alpes-Maritimes, une commerçante témoigne de cette difficulté à obtenir ces petites coupures.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7t2r4EU_qbKqkzXl2RSM0_6Fynw=/0x0:1280x720/800x0/images/Le-billet-de-5-euros-se-fait-de-plus-en-plus-rare-dans-les-portefeuilles-des-Francais-2390473.jpg\" />"
     },
     {
-      "title": "Portugal: le budget 2027 pourrait faire basculer le pays dans le déficit public après quatre années consécutives d'excédents",
-      "url": "https://www.bfmtv.com/economie/international/portugal-le-budget-2027-pourrait-faire-basculer-le-pays-dans-le-deficit-public-apres-quatre-annees-consecutives-d-excedents_AD-202611240894.html",
-      "summary": "Le Parlement portugais a adopté le budget 2027, qui prévoit désormais un déficit public de 0,2% du PIB, contre un excédent initialement attendu de 0,1%. Une première depuis quatre ans, malgré les excédents enregistrés ces dernières années. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gAXrXgRq-16WzKzSeys16cvVbwU=/0x107:2048x1259/800x0/images/Le-Premier-ministre-portugais-Luis-Montenegro-2389896.jpg\" />"
+      "title": "Une inflation qui grimpe à 3,8% et une croissance qui bondit à 4,3%: l'économie américaine tourne à plein régime et pourrait contraindre la Fed à relever encore ses taux",
+      "url": "https://www.bfmtv.com/economie/international/une-inflation-qui-grimpe-a-3-8-et-une-croissance-qui-bondit-a-4-3-l-economie-americaine-tourne-a-plein-regime-et-pourrait-contraindre-la-fed-a-relever-encore-ses-taux_AN-202611250638.html",
+      "summary": "L'inflation américaine accélère pour le deuxième mois consécutif, atteignant 3,8% en octobre, loin de l'objectif de 2% de la Fed. Dans le même temps, la croissance américaine a atteint 4,3% en rythme annualisé au troisième trimestre. De quoi renforcer la perspective d'une nouvelle hausse des taux directeurs dès décembre et d'un durcissement de la politique monétaire en 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4XrY1GcIy5wESaAJXHw87KFZjmE=/0x106:2048x1258/800x0/images/Travailleur-Etats-Unis-2348559.jpg\" />"
     },
     {
-      "title": "Même avec 90 milliards d'euros promis par l'Europe, il lui manque encore 25 milliards: l'Ukraine chiffre à 115 milliards ses besoins d'aide financière pour 2027",
-      "url": "https://www.bfmtv.com/economie/international/meme-avec-90-milliards-d-euros-promis-par-l-europe-il-lui-manque-encore-25-milliards-l-ukraine-chiffre-a-115-milliards-ses-besoins-d-aide-financiere-pour-2027_AD-202611240803.html",
-      "summary": "Kiev compte sur un financement de 90 milliards d'euros de l'Union européenne l'an prochain, mais doit encore trouver 25 milliards supplémentaires pour couvrir ses besoins, alors que la guerre avec la Russie alourdit ses dépenses militaires et les dégâts causés aux infrastructures.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OpBVaPTu5PrIoNfvnonIdhPsvek=/0x0:2048x1152/800x0/images/Volodymyr-Zelensky-2348726.jpg\" />"
+      "title": "Malgré des parieurs vieillissants et des mises en baisse, le PMU veut renouer avec la croissance dès 2027 et lance son plan de reconquête",
+      "url": "https://www.bfmtv.com/economie/entreprises/culture-loisirs/des-parieurs-de-plus-en-plus-vieux-plus-de-54-ans-de-moins-en-moins-nombreux-et-des-mises-qui-fondent-le-pmu-poursuit-son-lent-declin-mais-croit-a-son-rebond_AV-202611250618.html",
+      "summary": "Avec des clients âgés en moyenne de 50 ans et des jeunes générations qui préfèrent miser sur les matchs de football plutôt que sur les courses de chevaux, le PMU peine à enrayer son déclin. L'institution, bientôt centenaire, a dévoilé ce mercredi son plan de reconquête, alors que ses difficultés fragilisent toute la filière hippique française et ses 40.000 emplois.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WWCJYc57ns775UVb1wuIMAUKBP4=/17x0:3489x1953/800x0/images/-452741.jpg\" />"
     },
     {
-      "title": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
-      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026."
+      "title": "En pleine discorde entre les 27 sur le futur budget de l'UE, Emmanuel Macron prévient que faute d'accord en décembre, il ne poursuivra pas les négociations",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/en-pleine-discorde-entre-les-27-sur-le-futur-budget-de-l-ue-emmanuel-macron-previent-que-faute-d-accord-en-decembre-il-ne-poursuivra-pas-les-negociations_AD-202611250551.html",
+      "summary": "Le Conseil européen a présenté un projet de budget, de 204 milliards d'euros inférieur, par rapport à la proposition initiale de la Commission. La France perdrait notamment plusieurs milliards d'aide de la PAC. Une proposition à laquelle s'oppose l'Elysée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eepbuP9trNUIPNxx34FRDZZ20A4=/0x106:2048x1258/800x0/images/Emmanuel-Macron-a-Berlin-pour-une-conference-de-presse-de-la-coalition-des-volontaires-le-23-novembre-2026-2388963.jpg\" />"
     },
     {
-      "title": "Presque toutes les régions françaises atteindront leur pic de population avant 2070, selon l'Insee",
-      "url": "https://www.franceinfo.fr/economie/croissance/presque-toutes-les-regions-francaises-atteindront-leur-pic-de-population-avant-2070-selon-l-insee_8297775.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Alors que le pic démographique a déjà été atteint dans plusieurs régions, d'autres poursuivront leur croissance après 2050, avant de voir leur population diminuer."
+      "title": "L'inflation a atteint près de 77% sur un an dans le pays: pris en étau entre la guerre et les sanctions occidentales, l'Iran veut freiner la hausse des prix mais se dit prêt à résister au blocus américain",
+      "url": "https://www.bfmtv.com/economie/international/l-inflation-a-atteint-pres-de-77-sur-un-an-dans-le-pays-pris-en-etau-entre-la-guerre-et-les-sanctions-occidentales-l-iran-veut-freiner-l-inflation-mais-se-dit-pret-a-resister-au-blocus-americain_AV-202611250538.html",
+      "summary": "Le premier vice-président iranien Mohammad Reza Aref a affirmé que son pays ne craignait pas d'éventuelles conséquences du blocus naval américain, car les marchandises parviendraient à emprunter d'autres voies.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f0xFTrqb_X93N-1pZE3Q8G_6oN0=/0x106:2048x1258/800x0/images/Le-premier-vice-president-iranien-Mohammad-Reza-Aref-s-exprime-lors-du-troisieme-Forum-economique-de-la-Caspienne-a-Teheran-le-18-fevrier-2025-2124133.jpg\" />"
     },
     {
-      "title": "\"On sera des communes mortes\" : les maires affichent des rubans noirs pour manifester leur colère contre les coupes budgétaires",
-      "url": "https://www.franceinfo.fr/economie/budget/on-sera-des-communes-mortes-les-maires-affichent-des-rubans-noirs-pour-manifester-leur-colere-contre-les-coupes-budgetaires_8297790.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "La 108e édition du congrès des maires se tient ce mardi 24 novembre dans un climat tendu, en raison des coupes budgétaires auxquelles les élus vont devoir faire face. Leur colère se manifeste par des rubans noirs, disposés sur les panneaux à l'entrée des communes. Certains édiles craignent de devoir augmenter certaines taxes. Exemple en Seine-Maritime."
+      "title": "BFM Entreprise - Croissance - Les Sept Lieux, une croissance responsable et durable - Mercredi 25 novembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/bfm-entreprise-croissance-les-sept-lieux-une-croissance-responsable-et-durable-mercredi-25-novembre_EN-202611250529.html",
+      "summary": "Ce mercredi 25 novembre, Sandra Gandoin a reçu Charles-Antoine Bos et Ugo Mendes, cofondateurs des Sept Lieux, et Juliette Mandrin-Jaboulay, consultante en entrepreneuriat et membre du Réseau Entreprendre 78, dans l'émission BFM Entreprise, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WmimYA9ZvFJH9EEWUH7J6Nv2WTk=/0x0:14000x14000/800x0/podcast/podcasts/principale-650_2.jpg\" />"
+    },
+    {
+      "title": "5% de déficit pour la Bulgarie, 5,4% pour la France: c'est pourtant le premier pays que Bruxelles s'apprête à sanctionner pour déficit excessif et pas le second",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/moins-d-un-an-apres-son-entree-dans-la-zone-euro-la-bulgarie-risque-d-etre-le-premier-pays-sanctionne-pour-deficit-excessif-la-france-devrait-y-echapper_AV-202611250507.html",
+      "summary": "Alors que son déficit public est attendu à 5% du PIB, la Bulgarie risque une amende de 23 millions d'euros, quelques mois seulement après avoir adopté la monnaie commune.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Vf1yqdftMENNul2At3gwTO_GFTg=/0x106:2048x1258/800x0/images/Le-30-decembre-2025-une-projection-Bienvenue-a-la-Bulgarie-illumine-la-facade-du-siege-de-la-Banque-centrale-europeenne-BCE-a-Francfort-sur-le-Main-en-Allemagne-2209021.jpg\" />"
+    },
+    {
+      "title": "La marque de voitures chinoises BYD veut produire en France",
+      "url": "https://www.franceinfo.fr/economie/automobile/la-marque-de-voitures-chinoises-byd-veut-produire-en-france_8299761.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "En Moselle, le constructeur automobile chinois BYD est en passe de s'offrir une grande usine, dans la commune de Hambach. Ce serait la première en Europe de l'ouest pour le groupe. Si elle profitera à l'économie locale, son arrivée inquiète également les constructeurs français."
+    },
+    {
+      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Le chef de l'État reçoit, mercredi, les syndicats et représentants des agriculteurs, notamment pour faire le point sur le prochain budget européen dont dépendra la Politique agricole commune."
+    },
+    {
+      "title": "\"On espère que ça attirera de nouveau du monde\" : le Black Friday peut-il redonner des couleurs aux commerces avant Noël ?",
+      "url": "https://www.franceinfo.fr/economie/commerce/on-espere-que-ca-attirera-de-nouveau-du-monde-le-black-friday-peut-il-redonner-des-couleurs-aux-commerces-avant-noel_8299047.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Le coup d'envoi du Black Friday sera donné vendredi 27 novembre. Un jour de promotions massives avant Noël, dans un contexte d'économie en berne. Le concept, venu des États-Unis, peut-il aider à relancer la consommation ? Les commerçants l'espèrent."
+    },
+    {
+      "title": "VIDEO. Economies demandées aux collectivités : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", assure Valérie Pécresse, présidente de la région Ile-de-France",
+      "url": "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Invitée des \"4V\" mercredi 25 novembre, la présidente LR du conseil régional d'Île-de-France assure qu'elle sécurisera le budget de la région réservé aux rénovations des lycées, estimant que les économies demandées par le gouvernement aux collectivités sont \"très injustes\", de la part de \"cet Etat qui a cramé la caisse\" et qui souhaite \"confisquer les recettes fiscales des régions bien gérées\"."
+    },
+    {
+      "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Les agriculteurs s'inquiètent notamment de l'avenir de la PAC, la Politique agricole commune, dont il sera question au sommet européen de jeudi, consacré au budget de l'Union européenne."
+    },
+    {
+      "title": "L’info du jour | 25 novembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/11/25/linfo-du-jour-25-novembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 25 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 25 novembre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/11/25/linfo-du-jour-25-novembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 25 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 24 novembre 2026 - Soir",
@@ -102,14 +142,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 22 novembre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/11/22/linfo-du-jour-22-novembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 21 novembre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/11/21/linfo-du-jour-21-novembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Taxer les 1 % les plus riches… et pourquoi pas au-delà ?",
+      "url": "https://www.alternatives-economiques.fr/taxer-les-1-les-plus-riches-et-pourquoi-pas-au-dela_25-11-2026",
+      "summary": "Rétablir l’ISF, taxer les grandes fortunes ou mettre tout le monde à contribution ? Si augmenter les impôts paraît évident face à la hausse de la dette, déterminer sur qui reposera l’effort l’est beaucoup moins."
     },
     {
       "title": "Comment maîtriser la dette publique ? 10 solutions au banc d&#039;essai",
