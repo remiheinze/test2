@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-25T23:52:54Z",
+  "updated_at": "2026-11-26T05:55:18Z",
   "articles": [
+    {
+      "title": "La saison de ski s’ouvre en pleine incertitude : « Avec la conjoncture économique, les Français veulent encore plus qu’avant avoir l’assurance de la neige »",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/la-saison-de-ski-s-ouvre-en-pleine-incertitude-avec-la-conjoncture-economique-les-francais-veulent-encore-plus-qu-avant-avoir-l-assurance-de-la-neige_6815469_3234.html",
+      "summary": "Les premières chutes de neige ont rassuré les professionnels, mais ces derniers doivent composer avec des Français plus attentifs à leur budget, des réservations tardives et un modèle économique fragilisé par le réchauffement climatique."
+    },
+    {
+      "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
+      "summary": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles. Des représentants syndicaux manifesteront à cette occasion dans la capitale belge."
+    },
+    {
+      "title": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+      "summary": "La droite sénatoriale, majoritaire dans l’hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit. Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteure générale, Christine Lavarde, élue Les Républicains."
+    },
     {
       "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
       "url": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
@@ -22,39 +37,14 @@
       "summary": "Les magistrats de la rue Cambon soulignent, dans un rapport publié mercredi 25 novembre, les nombreuses défaillances autour du système, alors que le budget dévolu à l’apprentissage a bondi."
     },
     {
-      "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
-      "summary": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement."
-    },
-    {
       "title": "L'UE \"conteste fermement\" le bien-fondé des nouveaux droits de douane américains, Pékin dénonce un \"faux problème\" et rejette les accusations de surcapacité industrielle",
       "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-ue-conteste-fermement-le-bien-fonde-des-nouveaux-droits-de-douane-americains-pekin-denonce-un-faux-probleme-et-rejette-les-accusations-de-surcapacite-industrielle_AN-202611250923.html",
       "summary": "Bruxelles a fermement rejeté mercredi les accusations américaines de subventions illégales, avancées par Washington pour justifier les nouvelles mesures tarifaires annoncées. De son côté, Pékin, qui avait déjà réagi cette semaine avant l'annonce officielle, a dénoncé l'utilisation de la surcapacité industrielle comme prétexte politique, tout en appelant à préserver la stabilité des relations entre les deux premières économies mondiales. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hWOUubR9Sybc9RnkTjCrEb6Gm2s=/0x18:1008x585/800x0/images/Macron-et-von-der-Leyen-2348025.jpg\" />"
     },
     {
-      "title": "L'Argentine entre en récession (-1,8%) mais le gouvernement de Javier Milei défend sa politique d'austérité et exclut tout changement de cap économique",
-      "url": "https://www.bfmtv.com/economie/international/l-argentine-entre-en-recession-1-8-mais-le-gouvernement-de-javier-milei-defend-sa-politique-d-austerite-et-exclut-tout-changement-de-cap-economique_AD-202611250837.html",
-      "summary": "Après deux trimestres consécutifs de recul de l'activité économique, l'Argentine est entrée en récession technique, selon les estimations d'économistes. Le ministre de l'Économie, Luis Caputo, a toutefois relativisé cette situation mercredi et réaffirmé la volonté de l'exécutif de poursuivre la politique d'austérité menée par Javier Milei, malgré les difficultés économiques et les pressions sur le peso.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/J4Yur7Ti4w2Hz_4NecasmYbmMe0=/0x11:2048x1163/800x0/images/Javier-Milei-2196216.jpg\" />"
-    },
-    {
-      "title": "Au-delà de 7.000 euros de revenus par an, leur pension diminuera: le gouvernement justifie le tour de vis sur le cumul emploi-retraite par des \"comportements déviants\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/au-dela-de-7-000-euros-de-revenus-par-an-leur-pension-diminuera-le-gouvernement-justifie-le-tour-de-vis-sur-le-cumul-emploi-retraite-par-des-comportements-deviants_AD-202611250809.html",
-      "summary": "Contestée notamment pour son plafond de 7.000 euros de revenus cumulables, la réforme du cumul emploi-retraite entrera en vigueur en janvier. Le ministre du Travail, Jean-Pierre Farandou, défend une mesure destinée à lutter contre les abus, à favoriser le maintien des seniors dans l’emploi et à générer 2 milliards d’euros d’économies pour la Sécurité sociale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nXotDs0YjNu97ucr_nRB5JvSEp4=/0x0:1920x1080/800x0/images/Jean-Pierre-Farandou-ministre-du-Travail-et-des-Solidarites-le-9-novembre-2026-2380765.jpg\" />"
-    },
-    {
-      "title": "L’OCDE et l’Union africaine y croient: l'endettement pourrait devenir un moteur d’investissement et de croissance, même si les intérêts pèsent pour 25% du budget des États du continent",
-      "url": "https://www.bfmtv.com/economie/international/l-ocde-et-l-union-africaine-y-croient-l-endettement-pourrait-devenir-un-moteur-d-investissement-et-de-croissance-meme-si-les-interets-pesent-pour-25-du-budget-des-etats-du-continent_AD-202611250808.html",
-      "summary": "Selon un rapport de l’OCDE et de l’Union africaine, la dette publique africaine pourrait devenir un moteur de croissance et de création d’emplois si elle est orientée vers des investissements productifs, malgré le poids croissant de son remboursement.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/c0PCU_XEndG1l1LR-b3mPGwndfE=/0x107:2048x1259/800x0/images/Des-pietons-passent-devant-une-banniere-arborant-le-logo-de-l-Union-africaine-dans-le-centre-ville-d-Addis-Abeba-photo-d-illustration-2390497.jpg\" />"
-    },
-    {
       "title": "\"Cela fait 20 ans qu’on nous ponctionne et la dette s’aggrave !\", s'indigne une maire",
       "url": "https://www.franceinfo.fr/politique/cela-fait-20-ans-qu-on-nous-ponctionne-et-la-dette-s-aggrave-s-indigne-une-maire_8299926.html#xtor=RSS-3-%5Beconomie%5D",
       "summary": "Charlotte Blandiot-Faride, maire de Mitry-Mory, en Seine-et-Marne, comme d’autres élus présents au Congrès des maires de France, mardi 24 novembre, déplore que ce soient les communes qui doivent renflouer les caisses de l’Etat, alors qu’elles sont, contrairement à ce dernier, tenues de présenter des budgets en équilibre."
-    },
-    {
-      "title": "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
-      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Le chef du gouvernement a laissé entendre qu'il pourrait privilégier la voie de l'article 49.3 de la Constitution, plutôt que les ordonnances, afin de venir à bout du marathon budgétaire."
     },
     {
       "title": "L’info du jour | 25 novembre 2026 - Soir",
@@ -112,6 +102,11 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "Les promesses et les pièges d&#039;un grand emprunt national",
+      "url": "https://www.alternatives-economiques.fr/les-promesses-et-les-pieges-d-un-grand-emprunt-national_26-11-2026",
+      "summary": "Un grand emprunt ne permet pas de réduire la dette publique mais change le profil des créanciers et rend le financement du déficit moins dépendant des marchés. Une opération qui peut coûter cher à l'Etat."
+    },
+    {
       "title": "Faut-il imposer une règle d&#039;or pour redresser les comptes publics ?",
       "url": "https://www.alternatives-economiques.fr/faut-il-imposer-une-regle-d-or-pour-redresser-les-comptes-publics_25-11-2026",
       "summary": "Emmanuel Macron a remis sur la table l'idée d'une règle d'or budgétaire pour limiter le déficit et l'endettement publics. Mais cette règle risque de se révéler contre-productive et d'entraver les investissements d'avenir."
@@ -125,11 +120,6 @@
       "title": "Comment maîtriser la dette publique ? 10 solutions au banc d&#039;essai",
       "url": "https://www.alternatives-economiques.fr/comment-maitriser-la-dette-publique-10-solutions-au-banc-d-essai_23-11-2026",
       "summary": "Pour remettre les comptes à flot, le débat public se résume trop souvent à une cure d'austérité et à des coupes dans les dépenses. Mais d'autres solutions existent, avec des conséquences bien différentes."
-    },
-    {
-      "title": "Pour stabiliser la dette, faut-il vraiment passer par une cure d&#039;austérité ?",
-      "url": "https://www.alternatives-economiques.fr/pour-stabiliser-la-dette-faut-il-vraiment-passer-par-une-cure-d-austerite_23-11-2026",
-      "summary": "Pour réduire le déficit, le centre et la droite appellent avant tout à couper dans les dépenses. Mais cette stratégie fait peser des risques sur la croissance... et donc sur les recettes publiques."
     }
   ]
 }
